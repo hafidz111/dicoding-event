@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="event_name">Nama Event</string>
+    <string name="search">Yuk, Cari Event!</string>
+    <string name="no_event">Tidak ada event yang aktif</string>
+    <string name="no_event_finished">Tidak ada event yang selesai</string>
+    <string name="no_event_favorite">Tidak ada event yang favorit</string>
+    <string name="daftar">Daftar</string>
+    <string name="desc">Deskripsi acara akan ditampilkan di sini.</string>
+    <string name="penyelenggara">Penyelenggara</string>
+    <string name="waktu">Waktu</string>
+    <string name="kuota">Kuota</string>
+    <string name="title_setting">Setting</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="notification">Notification</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="event_summary">Ringkasan</string>
+    <string name="category">Kategori</string>
+    <string name="favorite_event">Favorite Event</string>
+    <string name="subtitle_fav">Rekomendasi event untuk kamu!</string>
+    <string name="registrants">Pendaftar</string>
+    <string name="slash">&#47;</string>
+</resources>
