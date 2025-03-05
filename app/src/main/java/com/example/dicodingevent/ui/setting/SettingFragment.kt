@@ -22,6 +22,7 @@ import com.example.dicodingevent.databinding.FragmentSettingBinding
 import com.example.dicodingevent.utils.EventWorkerNotification
 import java.util.concurrent.TimeUnit
 
+@Suppress("NAME_SHADOWING")
 class SettingFragment : Fragment() {
     private var _binding: FragmentSettingBinding? = null
     private val binding get() = _binding!!
